@@ -137,3 +137,15 @@ nav {
 .about-me__info--title {
     margin-bottom: 16px;
 }
+
+
+.about-me__links {
+    margin: 24px;
+    width: 100%;
+    max-width: 150px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+}
