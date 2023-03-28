@@ -140,12 +140,29 @@ nav {
 
 
 .about-me__links {
-    margin: 24px;
-    width: 100%;
-    max-width: 150px;
+    font-size: 24px;
+    color: #242424;
+    text-decoration: none;
     display: flex;
     justify-content: space-between;
-    font-size: 24px;
-    text-decoration: none;
-    color: black;
+    margin: 20px;
+    width: 100%;
+    max-width: 150px;
+    
+}
+
+.about-me__img--container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+
+
+}
+
+.about-me__img--abstract {
+    width: 100%;
+    max-width: 1200px;
 }
